@@ -10,6 +10,8 @@
   
   For placing coin you are requested to enter the co-ordinates where you want to place the coin. Rows and Columns are labelled from 0 to 7 as the game board is 8 x 8
   
+  U can select the difficulty level of the game as 1 or 2 or 3. when 1 is selected then Random strategy is used, when 2 is selected then Local maximisation strategy is used and for 3 minimax strategy is used
+  
   If you want to play the game with graphics then visit http://webversi.com
   
   If any improvements,they are accepted
